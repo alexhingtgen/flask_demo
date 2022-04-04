@@ -1,5 +1,5 @@
 # Flask Template
-Basic structure for starting a Flask project with Jinja templates
+Basic Flask application for class demonstration
 
 ---
 1. Clone this repository to local computer
